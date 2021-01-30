@@ -1,25 +1,29 @@
-### Hi there 👋, my name is Danilo Tupinambá.
-#### I am a Student in 
-![I am a Student in ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Greetings! My name is Danilo Tupinambá.
 
-I'm Danilo Tupianambá and I worked for more than 15 years in the civil construction area, both Architec and most with sanitation. I'm currently changing my work area to programing and development since I feel very motivated by tech and logic in programing.
-I still does not have a language to say it is my main skill but I leaning towards Ruby and Ruby on Rails.
+I worked for more than 15 years in the civil construction area, both Architec and most with sanitation. I'm currently changing my work area to programing and development since I feel very motivated by tech and logic in programing.
+I still does not have a language to say it is my main.
+I'm currently studding System Analysis and Development in FATEC São Paulo - Brasil and just initiated my journey as cadet in 42school here, in São Paulo.
+
+🇧🇷
+Oi, Meu nome é Danilo Tupinambá e eu estou mudando de área de trabalho, já trabalhei por mais de 15 anos em construção civil, iniciei na Arquitetura mas a minha maior experiência é com saneamento. Decidi mudar de área porque sempre gostei de lógica de programação mas nunca tive coragem de me meter nesta área.
+Eu não tenho uma linguagem específica para "chamar de minha", me mostre a que você gosta que talvez eu goste também!
+Eu estou estudando ADS na FATEC São Paulo e acabei de iniciar minha jornada como Cadete na 42 São Paulo.
+
 
 Skills: RUBY  / JS / HTML / CSS
 
-- 🔭 I’m currently working on a boat load of bootcamps 
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working on a boat load of bootcamps;
+- 🌱 I’m currently learning Flutter, Elixir and GoLang;
+- 🚴 My personal hobby are cycling and running;
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DanTupi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ www.linkedin.com/in/danilo-tupinamba /)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanTupi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danilo-tupinamba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tupinamba.medium.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/DanTupi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanTupi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DanTupi&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanTupi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/DanTupi)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanTupi)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/DanTupi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/DanTupi)  
+![GitHub metrics](https://metrics.lecoq.io/DanTupi)  
 
