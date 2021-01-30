@@ -2,12 +2,12 @@
 
 I worked for more than 15 years in the civil construction area, both Architec and most with sanitation. I'm currently changing my work area to programing and development since I feel very motivated by tech and logic in programing.
 I still does not have a language to say it is my main.
-I'm currently studding System Analysis and Development in FATEC São Paulo - Brasil and just initiated my journey as cadet in 42school here, in São Paulo.
+I'm currently studding System Analysis and Development in [FATEC São PAulo](http://www.fatecsp.br/) - Brasil and just initiated my journey as cadet in [42school](https://www.42sp.org.br/) here, in São Paulo.
 
 🇧🇷
 Oi, Meu nome é Danilo Tupinambá e eu estou mudando de área de trabalho, já trabalhei por mais de 15 anos em construção civil, iniciei na Arquitetura mas a minha maior experiência é com saneamento. Decidi mudar de área porque sempre gostei de lógica de programação mas nunca tive coragem de me meter nesta área.
 Eu não tenho uma linguagem específica para "chamar de minha", me mostre a que você gosta que talvez eu goste também!
-Eu estou estudando ADS na FATEC São Paulo e acabei de iniciar minha jornada como Cadete na 42 São Paulo.
+Eu estou estudando ADS na [FATEC São PAulo](http://www.fatecsp.br/) e acabei de iniciar minha jornada como Cadete na [42 São Paulo](https://www.42sp.org.br/).
 
 
 Skills: RUBY  / JS / HTML / CSS
