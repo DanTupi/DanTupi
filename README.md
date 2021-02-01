@@ -23,7 +23,6 @@ Skills: RUBY  / JS / HTML / CSS/ C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanTupi&show_icons=true&theme=dracula)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanTupi)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DanTupi)  
 
