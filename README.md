@@ -22,7 +22,7 @@ Skills: RUBY  / JS / HTML / CSS/ C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanTupi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-  <img src="https://wakatime.com/share/@DanTupi/d3228340-b70a-4242-876b-73e3c97c3852.svg" height="400"/>
+  <img src="https://wakatime.com/share/@DanTupi/344755e6-bf4e-4f1b-aba7-16322368a98e.svg" height="400"/>
 </p>
 
 
