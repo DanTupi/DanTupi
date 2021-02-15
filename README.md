@@ -22,7 +22,9 @@ Skills: RUBY  / JS / HTML / CSS/ C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanTupi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanTupi)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@DanTupi/d3228340-b70a-4242-876b-73e3c97c3852.svg"></embed></figure>
+<p>
+  <img src="https://wakatime.com/share/@DanTupi/d3228340-b70a-4242-876b-73e3c97c3852.svg">
+</p>
 ------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanTupi&show_icons=true&theme=dracula)  
 
